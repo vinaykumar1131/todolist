@@ -1,0 +1,65 @@
+div{
+    width: 40%;
+background-image: linear-gradient(pink,aqua);
+margin: auto;
+text-align: center;
+margin-top: 100px;
+border-radius: 12px;
+border-bottom: 10px dotted green;
+border-top: 20px double red;
+}body{
+    background-image: linear-gradient(orange,rgb(10, 139, 111));
+}
+h1{
+    font-size: 40px;
+    color: rgb(104, 99, 99);
+    text-shadow: 1px 2px #1b1818;
+    padding-top: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+ul{
+    position: relative;
+    width: 60%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+li{
+    list-style-type: none;
+    text-transform: capitalize;
+    line-height: 1.5;
+    font-size: 23px;
+    text-align: left;
+    font-weight: 800;
+    margin-bottom: 8px;
+
+}
+input[type="text"]{
+    color: black;
+    background-color: aqua;
+    border: 2px solid green;
+    border-radius: 5%; 
+    height: 34px;
+    display: block;
+    margin-bottom: 12px;
+    margin-left: 191px;
+}
+input[type="submit"]{
+    color: rgb(133, 74, 74);
+    border: 1px solid black;
+    width: 120px;
+    font-size: 24px;
+    border-radius: 4%;
+    padding: 12px;
+    margin-top: 12px;
+    margin-bottom: 15px;
+    background-color: lightcoral;
+
+
+}
+#mycol{
+    width: 100%;
+}
